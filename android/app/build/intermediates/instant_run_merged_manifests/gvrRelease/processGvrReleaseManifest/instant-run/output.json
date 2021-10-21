@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-gvr-release.apk","fullName":"gvrRelease","baseName":"gvr-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.vaxune","split":"","minSdkVersion":"23"}}]

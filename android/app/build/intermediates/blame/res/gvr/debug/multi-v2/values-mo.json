@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/asim/Documents/office/netBeat-Android/android/app/build/intermediates/incremental/mergeGvrDebugResources/merged.dir/values-mo/values-mo.xml",
+            "map": [
+                {
+                    "source": "/Users/asim/Documents/office/netBeat-Android/node_modules/react-viro/android/arcore_client/build/.transforms/e0f7d8453435d6f2f52fce73308c94a5/res/values-mo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,291,399,509",
+                        "endColumns": "47,52,107,109,65",
+                        "endOffsets": "237,290,398,508,574"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,164,276,390",
+                        "endColumns": "51,56,111,113,69",
+                        "endOffsets": "102,159,271,385,455"
+                    }
+                }
+            ]
+        }
+    ]
+}

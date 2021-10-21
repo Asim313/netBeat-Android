@@ -1,0 +1,52 @@
+{
+  "name": "Vaxune",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "postinstall": "jetifier -r"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/core": "^6.0.2",
+    "@react-navigation/native": "^6.0.4",
+    "@react-navigation/stack": "^5.9.1",
+    "axios": "^0.20.0",
+    "moment": "^2.29.1",
+    "openvidu-browser": "file:openvidu-browser-2.14.0.tgz",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-360": "^1.0.9",
+    "react-native-dbb-rtmp": "^1.0.1",
+    "react-native-extra-dimensions-android": "^1.2.5",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-gvr": "^1.0.5",
+    "react-native-incall-manager": "^3.3.0",
+    "react-native-keep-awake": "^4.0.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-safe-area-view": "^1.1.1",
+    "react-native-screens": "^2.15.0",
+    "react-native-swiper": "^1.6.0",
+    "react-navigation": "^2.18.2",
+    "react-navigation-stack": "^2.8.3",
+    "react-redux": "^7.2.5",
+    "react-viro": "^2.17.0",
+    "redux": "^4.1.1",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.6",
+    "@babel/runtime": "7.11.2",
+    "babel-jest": "26.3.0",
+    "jest": "26.4.2",
+    "jetifier": "^1.6.6",
+    "metro-react-native-babel-preset": "0.63.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
